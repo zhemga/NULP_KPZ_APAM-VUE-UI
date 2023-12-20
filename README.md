@@ -23,6 +23,9 @@ src\app\core
 ![image](https://github.com/zhemga/NULP_KPZ_APAM-VUE-UI/assets/55939422/9dc5f4f1-8214-4bb7-93e2-3696cdc13d49)
 ![image](https://github.com/zhemga/NULP_KPZ_APAM-VUE-UI/assets/55939422/3d367e09-f812-457f-bf10-0a441230551f)
 
+Робота інтерсептора:
+![image](https://github.com/zhemga/NULP_KPZ_APAM-VUE-UI/assets/55939422/b36ea391-d08e-44e4-b560-caa0cea2f3a4)
+
 
 ## Project setup
 ```
