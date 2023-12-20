@@ -19,6 +19,10 @@ src\app\core
 Приклад помилки:
 ![image](https://github.com/zhemga/NULP_KPZ_APAM-VUE-UI/assets/55939422/0961568e-807e-43a3-a46d-beb61045b67b)
 
+Роутинг:
+![image](https://github.com/zhemga/NULP_KPZ_APAM-VUE-UI/assets/55939422/9dc5f4f1-8214-4bb7-93e2-3696cdc13d49)
+![image](https://github.com/zhemga/NULP_KPZ_APAM-VUE-UI/assets/55939422/3d367e09-f812-457f-bf10-0a441230551f)
+
 
 ## Project setup
 ```
