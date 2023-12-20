@@ -1,5 +1,8 @@
 # apam_vue_ui
 
+## Перехоплювач та стори знаходяться за шляхом:
+src\app\core
+
 ## Project setup
 ```
 npm install
